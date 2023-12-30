@@ -34,7 +34,8 @@ print("Word Count in File=",count)
 ~~~
 
 ### OUTPUT:
-![Uploading image.png…]()
+![image](https://github.com/Sharan1731/command-line-arguments-to-count-word/assets/144980172/6a4affb4-eaf3-48ee-9c4c-70e839b827aa)
+
 
 
 
